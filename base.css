@@ -194,8 +194,8 @@ input {
   rotate: -12deg;
   width: 30rem;
   height: 30rem;
-  max-width: 30rem;
-  max-height: 30rem;
+  max-width: 35rem;
+  max-height: 35rem;
   background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.1767) 0%, rgba(0, 0, 0, 0.0057) 100%);
 }
 
@@ -228,7 +228,6 @@ li {
   top: 5px;
   background: linear-gradient(180deg, yellow, #073b41);
 }
-
 .shoe img:hover {
   background: yellow;
   width: 12.3rem;
@@ -237,5 +236,5 @@ li {
 
 li p {
   margin: 0;
-  text-align: center;
+  text-align: left;
 }
